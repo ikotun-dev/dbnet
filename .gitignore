@@ -1,0 +1,15 @@
+node_modules/
+.next/
+/out/
+/data/
+/bin/
+/internal/webassets/out/*
+!/internal/webassets/out/.gitkeep
+.DS_Store
+.env
+.env.*
+!.env.example
+coverage/
+*.log
+/dbnet
+*.tsbuildinfo
